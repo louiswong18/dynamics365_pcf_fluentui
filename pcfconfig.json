@@ -1,0 +1,6 @@
+{
+    "bundleConfig": {
+      "outDir": "./out/controls",
+      "sourceMap": "true"
+    }
+  }
